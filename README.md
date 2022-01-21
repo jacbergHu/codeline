@@ -3,10 +3,10 @@ count code's line,which is except empty line and comment,etc,and can specify mul
 
 #readme
 #qmake & make,and move and ln -s to /usr/bin/qnetassistant,you can use codeline anywhere.
-**example
+##example
  codeline path filter
 codeline ~ .cs .h .cpp
-**e.g. output will be:
+##e.g. output will be:
 welcome to codeline V1.0
 文件总数：5
 文件总行数：1211
