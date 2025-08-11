@@ -15,7 +15,7 @@
 #include "pthread.h"
 #endif
 
-#define VERSION "codeline V1.0"
+#define VERSION "codeline V1.1"
 #define THREADCOUNT 10
 struct FileCountResult {
 	QString     fileName;
