@@ -8,17 +8,17 @@ count code's line,which is except empty line and comment,etc,and can specify mul
 # codeline ~ .cs .h .cpp
 ##e.g. output will be:
 
-welcome to  codeline V1.1
+# welcome to  codeline V1.1
 
-开始统计文件类型： (*.h, main.cpp)
-文件总数： 125
-文件总行数： 8054
-代码总行数： 3722
-注释总行数： 3021
-空白总行数： 1311
-注释占比： 37.51%
-统计文件类型： *.h main.cpp 
-统计完成，开始输出结果...
-统计耗时： 288 毫秒
-统计完成，感谢使用！
+# 开始统计文件类型： (*.h, main.cpp)
+# 文件总数： 125
+# 文件总行数： 8054
+# 代码总行数： 3722
+# 注释总行数： 3021
+# 空白总行数： 1311
+# 注释占比： 37.51%
+# 统计文件类型： *.h main.cpp 
+# 统计完成，开始输出结果...
+# 统计耗时： 288 毫秒
+# 统计完成，感谢使用！
 
